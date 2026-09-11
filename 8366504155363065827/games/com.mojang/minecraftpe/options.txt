@@ -91,7 +91,7 @@ realms_switch_reconciliation:0
 realms_switch_test_offers:0
 realms_commerce_v2:0
 shown_ratings_prompt:0
-save_and_quit_count:5
+save_and_quit_count:6
 show_worlds_trial_button:1
 allow_cellular_data:0
 auto_update_mode:1

@@ -1,15 +1,15 @@
 {
-   "ProfileVersion" : 6,
+   "ProfileVersion" : 7,
    "Synchronized" : {
       "personaProfile" : {
          "personaCollection" : {
             "universalApp" : [
                {
-                  "hasSeenPersonaClassicSkinDifferencesPrompt" : false,
+                  "hasSeenPersonaClassicSkinDifferencesPrompt" : true,
                   "id" : "c18e65aa-7b21-4637-9b63-8ad63622ef01_Zuri",
                   "isPlatformLocked" : false,
                   "isTitleLocked" : false,
-                  "lastUsedPersonaSlot" : "persona_profile_persona3",
+                  "lastUsedPersonaSlot" : "persona_profile_persona2",
                   "packId" : "c18e65aa-7b21-4637-9b63-8ad63622ef01",
                   "stopShowingSkinChangePrompt" : true,
                   "typeId" : "skin"
@@ -69,6 +69,9 @@
                {
                   "col" : [ "#ff1b110d", "#0", "#0", "#0" ],
                   "id" : "99bdbaae-309b-d64b-42ad-0194a57db891/d"
+               },
+               {
+                  "id" : "ef479b6d-7072-47aa-8985-0f025cd24cdb/f"
                }
             ]
          },
