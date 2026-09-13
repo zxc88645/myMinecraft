@@ -1,5 +1,5 @@
 {
-   "ProfileVersion" : 7,
+   "ProfileVersion" : 8,
    "Synchronized" : {
       "personaProfile" : {
          "personaCollection" : {
@@ -72,6 +72,18 @@
                },
                {
                   "id" : "ef479b6d-7072-47aa-8985-0f025cd24cdb/f"
+               },
+               {
+                  "id" : "4c8ae710-df2e-47cd-814d-cc7bf21a3d67/de"
+               },
+               {
+                  "id" : "ceb97e43-f793-43a6-b74c-32828f08d3e4/fe"
+               },
+               {
+                  "id" : "42fde774-37d4-4422-b374-89ff13a6535a/fe"
+               },
+               {
+                  "id" : "9a469a61-c83b-4ba9-b507-bdbe64430582/de"
                }
             ]
          },
