@@ -91,7 +91,7 @@ realms_switch_reconciliation:0
 realms_switch_test_offers:0
 realms_commerce_v2:0
 shown_ratings_prompt:0
-save_and_quit_count:12
+save_and_quit_count:13
 show_worlds_trial_button:1
 allow_cellular_data:0
 auto_update_mode:1
@@ -199,7 +199,7 @@ show_stop_sneaking_tip_times_remain:3
 show_place_crafting_table_tip_times_remain:0
 show_use_crafting_table_tip_times_remain:0
 show_hotbar_scrolling_tip_times_remain:0
-show_chat_tip_times_remain:0
+show_chat_tip_times_remain:3
 show_emote_tip_times_remain:0
 day_one_experience_completed:1
 is_legacy_player:1
@@ -354,7 +354,7 @@ loading_tips_index:-1
 nether_reached:0
 has_dismissed_new_player_flow:1
 ctrl_improvedInputResponse:0
-app_launched_count:8
+app_launched_count:9
 gfx_debug_trace:0
 xbl_use_remote_connect:0
 worlds_friends_servers_SISU_third_session:1
@@ -373,7 +373,7 @@ frame_pacing_enabled:0
 options_version_major:1
 options_version_minor:26
 options_version_patch:60
-options_version_revision:22
+options_version_revision:24
 graphics_mode_switch:0
 gfx_texture_streaming:1
 command_macro_command_0:
