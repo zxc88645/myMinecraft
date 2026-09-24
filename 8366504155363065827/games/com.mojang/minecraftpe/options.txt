@@ -91,7 +91,7 @@ realms_switch_reconciliation:0
 realms_switch_test_offers:0
 realms_commerce_v2:0
 shown_ratings_prompt:0
-save_and_quit_count:13
+save_and_quit_count:16
 show_worlds_trial_button:1
 allow_cellular_data:0
 auto_update_mode:1
@@ -210,7 +210,7 @@ playfab_commerce_enabled:0
 do_not_show_multiplayer_online_safety_warning:1
 only_show_trusted_skins:1
 filter_profanity:1
-camera_shake:1
+camera_shake:0
 hide_endflash:0
 enable_dithering_blocks:1
 enable_dithering_mobs:1
@@ -329,6 +329,7 @@ bloom_strength:1
 bloom_custom_strength:1
 do_not_show_multiplayer_ip_safety_warning:0
 do_not_show_worlds_without_entitlement_warning:0
+do_not_show_mario_mashup_warning:0
 do_not_show_unavailable_dependencies_beta_warning:0
 do_not_show_old_worlds_warning:1
 do_not_hardcore_mode_warning:0
@@ -354,7 +355,7 @@ loading_tips_index:-1
 nether_reached:0
 has_dismissed_new_player_flow:1
 ctrl_improvedInputResponse:0
-app_launched_count:9
+app_launched_count:28
 gfx_debug_trace:0
 xbl_use_remote_connect:0
 worlds_friends_servers_SISU_third_session:1
@@ -373,7 +374,7 @@ frame_pacing_enabled:0
 options_version_major:1
 options_version_minor:26
 options_version_patch:60
-options_version_revision:24
+options_version_revision:28
 graphics_mode_switch:0
 gfx_texture_streaming:1
 command_macro_command_0:
