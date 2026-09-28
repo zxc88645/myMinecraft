@@ -47,7 +47,7 @@ gfx_multithreaded_renderer:1
 gfx_vsync:1
 dev_file_watcher:1
 gfx_max_framerate:0
-gfx_max_framerate_advanced:0
+gfx_max_framerate_advanced:60
 gfx_fullscreen:0
 show_advanced_video_settings:0
 gfx_guiscale_offset:0
@@ -91,7 +91,7 @@ realms_switch_reconciliation:0
 realms_switch_test_offers:0
 realms_commerce_v2:0
 shown_ratings_prompt:0
-save_and_quit_count:20
+save_and_quit_count:21
 show_worlds_trial_button:1
 allow_cellular_data:0
 auto_update_mode:1
@@ -318,7 +318,7 @@ gpu_validation_disable_errorsupress:0
 load_renderdocdll:0
 graphics_mode:2
 graphics_api:0
-graphics_quality_preset_mode:0
+graphics_quality_preset_mode:2
 shadow_quality:3
 cloud_quality:3
 lighting_mixed_res_enabled:0
@@ -355,7 +355,7 @@ loading_tips_index:-1
 nether_reached:0
 has_dismissed_new_player_flow:1
 ctrl_improvedInputResponse:0
-app_launched_count:31
+app_launched_count:32
 gfx_debug_trace:0
 xbl_use_remote_connect:0
 worlds_friends_servers_SISU_third_session:1
@@ -388,8 +388,8 @@ command_macro_command_7:
 command_macro_command_8:
 command_macro_command_9:
 editor_collect_network_metrics:1
-pause_menu_on_focus_lost:1
-graphics_quality_preset_changed:0
+pause_menu_on_focus_lost:0
+graphics_quality_preset_changed:1
 gamepadMappingVersion:1
 ctrl_type_0_key.jump:1
 ctrl_type_0_key.drop:6
